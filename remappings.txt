@@ -1,0 +1,7 @@
+@openzeppelin/contracts/=lib/oz-contracts-5.0.0/contracts/
+@openzeppelin/contracts4/=lib/oz-contracts-4.8.2/contracts/
+@openzeppelin/contracts5/=lib/oz-contracts-5.0.0/contracts/
+@openzeppelin/contracts52/=lib/oz-contracts-5.2.0/contracts/
+@openzeppelin/contracts-upgradeable4/=lib/oz-upgradeable-4.8.2/contracts/
+@openzeppelin/contracts-upgradeable5/=lib/oz-upgradeable-5.0.0/contracts/
+forge-std/=lib/forge-std/src/
